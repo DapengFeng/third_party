@@ -13,7 +13,32 @@
 </details>
 </details>
 
-## BSD 2-Clause
+<details>
+<summary><a href="https://github.com/google/flatbuffers/tree/v2.0.6">flatbuffers</a></summary>
+ <p>is a cross platform serialization library architected for maximum memory efficiency. </p>
+<details>
+<summary>sha1</summary>
+<p>
+615616cb5549a34bdf288c04bc1b94bd7a65c396
+</p>
+</details>
+</details>
+
+## BSD
+
+<details>
+<summary>
+<a href="https://github.com/protocolbuffers/protobuf/tree/v3.20.1">protobuf</a></summary>
+<p>a language-neutral, platform-neutral extensible mechanism for serializing structured data. </p>
+<details>
+<summary>sha1</summary>
+<p>
+21027a27c4c2ec1000859ccbcfff46d83b16e1ed
+</p>
+</details>
+</details>
+
+## BSD 2 Clause
 
 <details>
 <summary><a href="https://github.com/pytorch/cpuinfo">cpuinfo</a></summary>

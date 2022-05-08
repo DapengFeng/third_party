@@ -13,3 +13,6 @@
 [submodule "flatbuffers"]
 	path = flatbuffers
 	url = git@github.com:google/flatbuffers.git
+[submodule "protobuf"]
+	path = protobuf
+	url = git@github.com:protocolbuffers/protobuf.git

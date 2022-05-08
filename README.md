@@ -1,5 +1,31 @@
 # Repos
 
+## Apache 2.0
+
+<details>
+<summary><a href="https://github.com/google/benchmark/tree/v1.6.1">benchmark</a></summary>
+ <p>A library to benchmark code snippets, similar to unit tests.</p>
+<details>
+<summary>sha1</summary>
+<p>
+0d98dba29d66e93259db7daa53a9327df767a415
+</p>
+</details>
+</details>
+
+## BSD 2-Clause
+
+<details>
+<summary><a href="https://github.com/pytorch/cpuinfo">cpuinfo</a></summary>
+ <p>is a library to detect essential for performance optimization information about host CPU.</p>
+<details>
+<summary>sha1</summary>
+<p>
+b40bae27785787b6dd70788986fd96434cf90ae2
+</p>
+</details>
+</details>
+
 ## MIT
 
 <details>
@@ -23,19 +49,6 @@ b6f4ceaed0a0a24ccf575fab6c56dd50ccf6f1a9
 <summary>sha1</summary>
 <p>
 3147391d946bb4b6c68edd901f2add6ac1f31f8c
-</p>
-</details>
-</details>
-
-## BSD 2-Clause
-
-<details>
-<summary><a href="https://github.com/pytorch/cpuinfo">cpuinfo</a></summary>
- <p>is a library to detect essential for performance optimization information about host CPU.</p>
-<details>
-<summary>sha1</summary>
-<p>
-b40bae27785787b6dd70788986fd96434cf90ae2
 </p>
 </details>
 </details>

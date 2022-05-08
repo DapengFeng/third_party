@@ -4,3 +4,6 @@
 [submodule "eigen"]
 	path = eigen
 	url = https://gitlab.com/libeigen/eigen.git
+[submodule "cpuinfo"]
+	path = cpuinfo
+	url = git@github.com:pytorch/cpuinfo.git

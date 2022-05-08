@@ -26,3 +26,16 @@ b6f4ceaed0a0a24ccf575fab6c56dd50ccf6f1a9
 </p>
 </details>
 </details>
+
+## BSD 2-Clause
+
+<details>
+<summary><a href="https://github.com/pytorch/cpuinfo">cpuinfo</a></summary>
+ <p>is a library to detect essential for performance optimization information about host CPU.</p>
+<details>
+<summary>sha1</summary>
+<p>
+b40bae27785787b6dd70788986fd96434cf90ae2
+</p>
+</details>
+</details>

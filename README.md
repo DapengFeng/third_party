@@ -51,6 +51,17 @@ b40bae27785787b6dd70788986fd96434cf90ae2
 </details>
 </details>
 
+<details>
+<summary><a href="https://github.com/pybind/pybind11/tree/v2.9.2">pybind11</a></summary>
+ <p>is a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code.</p>
+<details>
+<summary>sha1</summary>
+<p>
+914c06fb252b6cc3727d0eedab6736e88a3fcb01
+</p>
+</details>
+</details>
+
 ## MIT
 
 <details>

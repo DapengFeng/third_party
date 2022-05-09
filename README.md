@@ -12,7 +12,6 @@
 </p>
 </details>
 </details>
-
 <details>
 <summary><a href="https://github.com/google/flatbuffers/tree/v2.0.6">flatbuffers</a></summary>
  <p>is a cross platform serialization library architected for maximum memory efficiency. </p>
@@ -24,19 +23,7 @@
 </details>
 </details>
 
-## BSD
 
-<details>
-<summary>
-<a href="https://github.com/protocolbuffers/protobuf/tree/v3.20.1">protobuf</a></summary>
-<p>a language-neutral, platform-neutral extensible mechanism for serializing structured data. </p>
-<details>
-<summary>sha1</summary>
-<p>
-21027a27c4c2ec1000859ccbcfff46d83b16e1ed
-</p>
-</details>
-</details>
 
 ## BSD 2 Clause
 
@@ -51,6 +38,29 @@ b40bae27785787b6dd70788986fd96434cf90ae2
 </details>
 </details>
 
+## BSD 3 Clause
+
+<details>
+<summary>
+<a href="https://github.com/google/googletest/tree/release-1.11.0">googletest</a></summary>
+<p>is Google’s C++ testing and mocking framework.</p>
+<details>
+<summary>sha1</summary>
+<p>
+e2239ee6043f73722e7aa812a459f54a28552929
+</p>
+</details>
+</details><details>
+<summary>
+<a href="https://github.com/protocolbuffers/protobuf/tree/v3.20.1">protobuf</a></summary>
+<p>a language-neutral, platform-neutral extensible mechanism for serializing structured data. </p>
+<details>
+<summary>sha1</summary>
+<p>
+21027a27c4c2ec1000859ccbcfff46d83b16e1ed
+</p>
+</details>
+</details>
 <details>
 <summary><a href="https://github.com/pybind/pybind11/tree/v2.9.2">pybind11</a></summary>
  <p>is a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code.</p>

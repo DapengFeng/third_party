@@ -23,8 +23,6 @@
 </details>
 </details>
 
-
-
 ## BSD 2 Clause
 
 <details>
@@ -82,6 +80,16 @@ alternative to C stdio and C++ iostreams.</p>
 <summary>sha1</summary>
 <p>
 b6f4ceaed0a0a24ccf575fab6c56dd50ccf6f1a9
+</p>
+</details>
+</details>
+<details>
+<summary><a href="https://github.com/Maratyszcza/FP16">FP16</a></summary>
+ <p>Header-only library for conversion to/from half-precision floating point formats</p>
+<details>
+<summary>sha1</summary>
+<p>
+0a92994d729ff76a58f692d3028ca1b64b145d91
 </p>
 </details>
 </details>

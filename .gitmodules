@@ -22,3 +22,6 @@
 [submodule "googletest"]
 	path = googletest
 	url = git@github.com:google/googletest.git
+[submodule "FP16"]
+	path = FP16
+	url = git@github.com:Maratyszcza/FP16.git
